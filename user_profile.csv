@@ -1,0 +1,50 @@
+id,region_id,location_id,address
+1,0,0,xxx
+7,1,601,Teryan 105/1
+30,1,597,"Mazmanyan 4, apt. 34"
+31,1,595,Yerevan Komitas
+34,1,606,"Shiraki 1 nrb 8, apt. 3"
+36,1,601,"3 Pushkin str., apr. 55"
+37,1,601,Yekmalyan 6
+38,0,0,Kakabeti  St.6
+39,1,603,"Jughai 3, apt.10"
+40,1,597,"Halabyan, 24/17"
+41,1,601,Vardanats 14/1 apt: 23
+42,1,597,Mazmanyan 4 apt. 34
+43,1,595,Vagharshyan 24/3 apt. 10
+44,1,597,Grigor Zohrab 17/1
+45,1,595,"Vagharshyan 24/3, apt. 10"
+47,1,602,Sebastia 82
+48,1,597,"Mazmanyan 4, apt. 34"
+49,1,601,"Mashtots 40, apt. 41"
+50,7,442,"Armenia, Abovyan city, Darani 4, 36"
+51,1,600,Sari tagh 15 str home 1
+52,1,595,Babayan 14-7
+53,1,599,Davidashen 4 block bld. 36 ap.32
+54,1,597,Azat Vshtuni 1 nrbancq tun 8
+55,1,595,Kievyan 22 
+56,1,599,"Davitashen 4 block, 42 Blvd, apt 10"
+57,1,599,Davtashen 4 taxamas 20 shenq 36 bnakaran
+58,1,603,Nor norq Gyuliqevkhyan31/2; apt.18
+59,1,601,Khorentsi 43str APT26
+60,1,597,futchik str
+61,5,316,g Lshashen
+62,1,595,"A. Khachatryan 4, apt 96"
+63,1,595,Komitas street 48 a appartment 108
+64,1,603,Nansen
+65,1,606,Sharur 5/5-17
+66,7,442,Yeritasardakan 1/38
+67,0,0,Xevond Hovhannisyan 1/1
+68,1,601,Mesrop Mashtots ave. 53
+69,1,601,Mesrop Mashtots ave. 53
+70,1,595,Komitas 63/57
+71,1,602,Andraniki20
+72,1,601,Bryusov St
+73,1,601,verin antarayin 144\3
+74,0,0,"Noy dist.,46/2"
+75,1,601,Tamanyan1; 14/1
+76,0,0,-
+77,1,601,Arami nrbancq 24A
+78,1,595,babajanyan 83 19 bn
+79,7,442,3rd mikroshrjan 42 Shenq bnakaran 20
+80,3,101,Masis gyux
