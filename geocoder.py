@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'AIzaSyBzyd4Z64TN7vCvvjGNlzMe8IXKNhrwVW8'
+API_KEY = '---YOUR---API---KEY'
 
 address = '1 hack drive, menlo park, CA'
 
